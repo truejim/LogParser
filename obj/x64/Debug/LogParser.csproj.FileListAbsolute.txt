@@ -1,0 +1,9 @@
+C:\Users\jschaffer\source\repos\LogParser\bin\Debug-x64\LogParser.dll
+C:\Users\jschaffer\source\repos\LogParser\bin\Debug-x64\LogParser.pdb
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.csprojAssemblyReference.cache
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.Properties.Resources.resources
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.csproj.GenerateResource.cache
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.csproj.CoreCompileInputs.cache
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.dll
+C:\Users\jschaffer\source\repos\LogParser\obj\x64\Debug\LogParser.pdb
